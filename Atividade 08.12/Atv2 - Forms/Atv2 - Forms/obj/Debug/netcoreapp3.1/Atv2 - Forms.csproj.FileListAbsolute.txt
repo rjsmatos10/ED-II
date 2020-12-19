@@ -1,0 +1,15 @@
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\1512\Atv2 - Forms\Atv2 - Forms\bin\Debug\netcoreapp3.1\Atv2 - Forms.exe
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\1512\Atv2 - Forms\Atv2 - Forms\bin\Debug\netcoreapp3.1\Atv2 - Forms.deps.json
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\1512\Atv2 - Forms\Atv2 - Forms\bin\Debug\netcoreapp3.1\Atv2 - Forms.runtimeconfig.json
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\1512\Atv2 - Forms\Atv2 - Forms\bin\Debug\netcoreapp3.1\Atv2 - Forms.runtimeconfig.dev.json
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\1512\Atv2 - Forms\Atv2 - Forms\bin\Debug\netcoreapp3.1\Atv2 - Forms.dll
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\1512\Atv2 - Forms\Atv2 - Forms\bin\Debug\netcoreapp3.1\Atv2 - Forms.pdb
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\1512\Atv2 - Forms\Atv2 - Forms\obj\Debug\netcoreapp3.1\Atv2 - Forms.csprojAssemblyReference.cache
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\1512\Atv2 - Forms\Atv2 - Forms\obj\Debug\netcoreapp3.1\Atv2___Forms.Form1.resources
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\1512\Atv2 - Forms\Atv2 - Forms\obj\Debug\netcoreapp3.1\Atv2 - Forms.csproj.GenerateResource.cache
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\1512\Atv2 - Forms\Atv2 - Forms\obj\Debug\netcoreapp3.1\Atv2 - Forms.AssemblyInfoInputs.cache
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\1512\Atv2 - Forms\Atv2 - Forms\obj\Debug\netcoreapp3.1\Atv2 - Forms.AssemblyInfo.cs
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\1512\Atv2 - Forms\Atv2 - Forms\obj\Debug\netcoreapp3.1\Atv2 - Forms.csproj.CoreCompileInputs.cache
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\1512\Atv2 - Forms\Atv2 - Forms\obj\Debug\netcoreapp3.1\Atv2 - Forms.dll
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\1512\Atv2 - Forms\Atv2 - Forms\obj\Debug\netcoreapp3.1\Atv2 - Forms.pdb
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\1512\Atv2 - Forms\Atv2 - Forms\obj\Debug\netcoreapp3.1\Atv2 - Forms.genruntimeconfig.cache

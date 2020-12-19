@@ -1,0 +1,13 @@
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\1512\Atv2\Atv2\obj\Debug\netcoreapp3.1\Atv2.csprojAssemblyReference.cache
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\1512\Atv2\Atv2\obj\Debug\netcoreapp3.1\Atv2.AssemblyInfoInputs.cache
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\1512\Atv2\Atv2\obj\Debug\netcoreapp3.1\Atv2.AssemblyInfo.cs
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\1512\Atv2\Atv2\obj\Debug\netcoreapp3.1\Atv2.csproj.CoreCompileInputs.cache
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\1512\Atv2\Atv2\bin\Debug\netcoreapp3.1\Atv2.exe
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\1512\Atv2\Atv2\bin\Debug\netcoreapp3.1\Atv2.deps.json
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\1512\Atv2\Atv2\bin\Debug\netcoreapp3.1\Atv2.runtimeconfig.json
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\1512\Atv2\Atv2\bin\Debug\netcoreapp3.1\Atv2.runtimeconfig.dev.json
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\1512\Atv2\Atv2\bin\Debug\netcoreapp3.1\Atv2.dll
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\1512\Atv2\Atv2\bin\Debug\netcoreapp3.1\Atv2.pdb
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\1512\Atv2\Atv2\obj\Debug\netcoreapp3.1\Atv2.dll
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\1512\Atv2\Atv2\obj\Debug\netcoreapp3.1\Atv2.pdb
+D:\OneDrive - Etec Centro Paula Souza\Leandro\ADS\4 Semestre\ED2\1512\Atv2\Atv2\obj\Debug\netcoreapp3.1\Atv2.genruntimeconfig.cache
